@@ -101,12 +101,6 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 
 I'm on the journey.
 
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
-
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
 
@@ -125,7 +119,7 @@ from public sources and replacing the online course videos over time. I like usi
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
 - [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
@@ -182,7 +176,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
-- [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
+- [x] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
     - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
